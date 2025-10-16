@@ -1,8 +1,9 @@
 COVID-19 Data Analysis and Impact Insights
+
 Project Overview
 Project Title: Global COVID-19 Impact and Trend Analysis
 
-Project Description: This project transforms raw global COVID-19 case and mortality data into clear, actionable public health insights. Utilizing advanced data preparation and interactive visualization techniques, the goal is to analyze the temporal evolution of the pandemic, identify geographical hotspots, and assess the differential impact across regions. The analysis focuses on understanding case fatality rates, growth curves, and the relationship between testing rates and confirmed cases. The result is a dynamic dashboard providing a complete, evidence-based view of the pandemic's progression for policy review and risk assessment.
+Project Description: This project transforms raw global COVID-19 case and mortality data into clear, actionable public health insights. Utilizing advanced data preparation and interactive visualization techniques, the goal is to analyze the temporal evolution of the pandemic, identify geographical hotspots, and assess the differential impact across regions. The analysis focuses on understanding case fatality rates, growth curves, and the relationship between testing rates and confirmed cases. The result is a dynamic dashboard that provides a comprehensive, evidence-based view of the pandemic's progression for policy review and risk assessment.
 
 Business Task: To analyze and visualize key epidemiological indicators of the COVID-19 pandemic to:
 
